@@ -1,0 +1,91 @@
+{
+  "full_name": "",
+  "education": [
+    {
+      "institution": "AASTU",
+      "credential": "Electrical and Computer Engineering",
+      "location": "Ethiopia",
+      "status": "graduate"
+    }
+  ],
+  "target_roles": [
+    "AI Engineer",
+    "AI Agent Systems Engineer",
+    "LLM Engineer",
+    "Full-Stack Software Developer",
+    "Machine Learning Engineer"
+  ],
+  "target_job_titles": [
+    "AI Engineer",
+    "AI Agent Engineer",
+    "AI Automation Engineer",
+    "LLM Engineer",
+    "Applied AI Engineer",
+    "Junior Machine Learning Engineer",
+    "Python Backend Developer",
+    "Full-Stack Developer",
+    "Generative AI Engineer",
+    "RAG Engineer",
+    "AI Research Engineer"
+  ],
+  "skills": {
+    "backend": ["Python", "Node.js", "NestJS", "FastAPI", "REST APIs"],
+    "frontend": ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+    "ai": [
+      "LLMs",
+      "RAG",
+      "AI Agents",
+      "LangGraph",
+      "LangChain",
+      "PyTorch",
+      "Scikit-learn",
+      "Machine Learning",
+      "Model development and evaluation"
+    ],
+    "databases": ["PostgreSQL", "Redis", "Vector databases", "pgvector"],
+    "automation": ["n8n", "AI workflow automation", "API integrations"]
+  },
+  "projects": [
+    {
+      "name": "Aegis Health",
+      "summary": "AI healthcare project focused on diabetic retinopathy detection."
+    },
+    {
+      "name": "Full-stack SaaS",
+      "summary": "Full-stack SaaS application development."
+    },
+    {
+      "name": "AI agents",
+      "summary": "AI agent development."
+    },
+    {
+      "name": "Backend and integrations",
+      "summary": "Backend development and API integrations."
+    },
+    {
+      "name": "Mentoring",
+      "summary": "Mentoring students in Node.js backend development."
+    }
+  ],
+  "location": "Addis Ababa, Ethiopia",
+  "preferences": {
+    "open_to_international_remote": true,
+    "open_to_ethiopia": true,
+    "open_to_international": true,
+    "experience_band": "early-career",
+    "years_of_experience": null,
+    "career_goals": [
+      "Find relevant jobs every day",
+      "Stay updated with important AI developments",
+      "Discover valuable opportunities",
+      "Identify skills to learn to improve my career"
+    ],
+    "target_locations": [
+      "Addis Ababa, Ethiopia",
+      "Other locations in Ethiopia",
+      "International remote positions",
+      "Companies accepting international applicants"
+    ],
+    "feedback_weights": {}
+  }
+}
